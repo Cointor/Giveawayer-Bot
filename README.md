@@ -59,3 +59,5 @@ Ejecuta el bot de Repl.it y usa el prefix que definiste.
 En la carpeta **commands** puedes personalizar los comandos. 
 
 ## Ahora ya tienes tu bot Giveawayer :D
+
+[Creador original en ingles.](https://github.com/fekt/discord-giveaway-bot/)
