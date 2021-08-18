@@ -49,3 +49,9 @@ Ahora debes editar cada parte del `json`
 
 * `"prefix": "g!"` Remplaza "g!" por el prefix de tu agrado, Ejemplo: ! o $ Para aplicar quedaria como `"prefix": "$"`
 * Aquí se define un color general `"EmbedColour": "#18704b"` Remplaza "#18704b" por un color hex de tu gusto. Puedes dejar el que esta.
+* En `"giveawayManagerID": "833797682380013589"` debes añadir tu ID. `"TU ID"`, Si no sabes como colocar tu id puesdes ver este video: [Click Aquí](https://www.youtube.com/watch?v=e7Ar45Vadb8)
+* Los demas datos los puedes dejar como estan.
+
+Ejecuta el bot de Repl.it y usa el prefix que definiste.
+
+## Paso 3 <img src="https://cdn.discordapp.com/emojis/839259168514768946.png?v=1" width="25px">
