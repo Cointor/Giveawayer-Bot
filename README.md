@@ -10,3 +10,9 @@
 ![Star GITHUB - Cointor](https://media.discordapp.net/attachments/870482018574680124/877417490832039947/unknown.png)
 
 ## Paso 2 <img src="https://cdn.discordapp.com/emojis/806302539800641546.png?v=1" width="25px">
+
+* Dirígete al archivo de **Repl.it** [Click Aquí](https://replit.com/@CointorTutorial/Giveaway) <img src="https://cdn.discordapp.com/emojis/835294976052297758.png?v=1" width="25px">
+* Declara tu **TOKEN**
+
+![TOKEN 1 - COINTOR](https://images-ext-2.discordapp.net/external/x-nBndaZ_jr1vDN5mMbrBDdWgjd-pGiDoeLWxMFPS4I/%3Fwidth%3D225%26height%3D406/https/media.discordapp.net/attachments/850469128988000286/862736906163585054/unknown.png)
+![TOKEN 2 - COINTOR](https://images-ext-1.discordapp.net/external/5A1zwE0ikcQZKiOY5cLbOd8vMQf0dJWmvXzSBI_k-sA/https/media.discordapp.net/attachments/850469128988000286/862737800545959976/unknown.png)
