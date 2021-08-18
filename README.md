@@ -44,3 +44,8 @@ Una vez en el archivo debes tener algo parecido a esto:
 
 }  
 ```
+
+Ahora debes editar cada parte del `json`
+
+* `"prefix": "g!"` Remplaza "g!" por el prefix de tu agrado, Ejemplo: ! o $ Para aplicar quedaria como `"prefix": "$"`
+* Aquí se define un color general `"EmbedColour": "#18704b"` Remplaza "#18704b" por un color hex de tu gusto. Puedes dejar el que esta.
