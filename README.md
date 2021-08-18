@@ -16,3 +16,31 @@
 
 ![TOKEN 1 - COINTOR](https://images-ext-2.discordapp.net/external/x-nBndaZ_jr1vDN5mMbrBDdWgjd-pGiDoeLWxMFPS4I/%3Fwidth%3D225%26height%3D406/https/media.discordapp.net/attachments/850469128988000286/862736906163585054/unknown.png)
 ![TOKEN 2 - COINTOR](https://images-ext-1.discordapp.net/external/5A1zwE0ikcQZKiOY5cLbOd8vMQf0dJWmvXzSBI_k-sA/https/media.discordapp.net/attachments/850469128988000286/862737800545959976/unknown.png)
+
+## Paso 3 <img src="https://cdn.discordapp.com/emojis/793918765804290068.png?v=1" width="25px">
+
+* Dirígete al archivo `config.json`
+
+![Cointor Nya~](https://media.discordapp.net/attachments/870482016116830208/877422112120381460/unknown.png)
+
+Una vez en el archivo debes tener algo parecido a esto: 
+```json
+{
+    "Bot_Info": {
+        "prefix": "g!"
+    },
+
+   "Embed_Defaults": {
+       "EmbedColour": "#18704b"
+   },
+
+   "Giveaway_Options": {
+    "giveawayManagerID": "833797682380013589",
+    "giveawayRoleID": "",
+    "giveawayMention": false,
+    "showMention": false,
+    "hostedBy": true
+}
+
+}  
+```
