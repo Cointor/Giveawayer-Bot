@@ -54,7 +54,7 @@ Ahora debes editar cada parte del `json`
 
 Ejecuta el bot de Repl.it y usa el prefix que definiste.
 
-## Paso 3 <img src="https://cdn.discordapp.com/emojis/839259168514768946.png?v=1" width="25px">
+## Paso 4 <img src="https://cdn.discordapp.com/emojis/839259168514768946.png?v=1" width="25px">
 
 En la carpeta **commands** puedes personalizar los comandos. 
 
